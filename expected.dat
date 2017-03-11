@@ -1,0 +1,12 @@
+<table>
+    <tr>
+        <th colspan="2">Person</th>
+    </tr>
+    <tr><td>
+        name: String <br/>
+        title: String <br/>
+        age: int <br/>
+    </td><td>
+    </td></tr>
+</table>
+

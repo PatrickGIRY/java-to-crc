@@ -1,0 +1,14 @@
+package experiments.transducteurs.domain.invoice;
+
+import java.time.Month;
+import java.util.function.Consumer;
+
+public class Person {
+
+    private String name;
+    private String title;
+    private final int age;
+
+    private Person() {
+    }
+}
