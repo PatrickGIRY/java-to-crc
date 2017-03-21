@@ -1,11 +1,11 @@
 <table>
     <tr>
-        <th colspan="2">Person</th>
+        <th colspan="2"><a name="Person"></a>Person</th>
     </tr>
     <tr><td>
-        name: String <br/>
-        title: String <br/>
-        age: int <br/>
+        name: <a href="#String">String</a> <br/>
+        title: <a href="#String">String</a> <br/>
+        age: <a href="#int">int</a> <br/>
     </td><td>
     </td></tr>
 </table>
